@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "authorized_keys": "c3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFDQVFEdFRGb05Td1dLK3p2VFV2Rmx6MVAvQ2VISVAwSUszMllwOXRIb2szWjFITDZhMVlNNTMyK1hRWU1QeFFiUXRZYWl0UUR4OWhtbDI3TUxoaGlYckoxU3poSTJLSmtvNVdSWDJLWlBMcThjVUt1SjlzbnBkRk1yWElyb1JUVis2bUNlS0FFRnVXdzdTandlUEVWeFdCSGhNNEZlR3BvbmhMQ20zV0Q1WmY3MWtMUnNJZVZHcURJaytRTUd2d2lYdDZXbFJrcXpiR1pJOW5YTDVKMkt6N3BFQTM1K2Q5RzJMTDlidGVobzB4WUZCclRodi9tMG51UlZ3djl4aWVVZVkwZmpDckdpYTJGTTVwYzZ1cFloUis2NnI5Nkw1di9DMEJIQUkvODlud1I1Y0FSZzhmMVNuVmRPOFJsNCszQVRydjBGKzN5NXZGRFI0UU0yTUMrcUJMV3ZBUHRtSEZNV3hwKy9iZTEzNE1WbzV0RVkwR3VpK2RsY3NvTWs5V01VTFJwSXFTYi9Gd1lCeSsxT0JYeUVCdXVaN0lMekNINkJyZE4zRWFEeGRibUFQNEpVajUyL2tJZU1YSmhBL2ltMHowcHVZcm81d3lFVDJwc0wwdXNteEN0WWlOU1RVZkxSdVR0Y25UT0tGOExOUllXNUZDV1BJazFrRklHNlpwTWZtb0t2LzRxemU1MUNLK21nbld1V0x2eVNOaGhTeXB0Umx4NlBoWjJqbHcwWlJSMzkzbDJlZGlOMGtseHFGdUJuZnlIbHRuYnZjVVdGYzNYSzg0VHBOVUxBQU5CekpxRVhGeFIwa3FpSU55Q0Q0bHY3OXJWZWhaWEkvNnlkcDFJQmpmMkVGM21Ra3RuSjBHeHN2UkdsakFmNmp6T1IzT2hsbHlWUDdqRE5LRXhGbXc9PSB0dGltemVuQHR0aW16ZW4tVGhpbmtQYWQtVDQ4MAo=", 
+            "name": "demo", 
+            "shell": "/bin/bash", 
+            "tags": [
+                "infra", 
+                "redteam", 
+                "core"
+            ], 
+            "uid": 6000, 
+            "username": "demo"
+        }
+    ]
+}
